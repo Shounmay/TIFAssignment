@@ -1,7 +1,7 @@
 //imports
 import express from 'express';
 import { connection } from './config/db.js';
-import { test } from './test.js';
+// import { test } from './test.js';
 import userAuthRoutes from './routes/userAuthRoutes.js';
 import communityRoutes from './routes/communityRoutes.js';
 import roleRoutes from './routes/roleRoutes.js';
